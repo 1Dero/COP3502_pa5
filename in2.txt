@@ -1,0 +1,34 @@
+33
+add jamal 50
+add elena 30
+add remy 12
+sub elena 16
+add jamal 13
+add stella 100
+add abbie 37
+sub stella 33
+sub abbie 99
+add howard 73
+del stella
+count_smaller jamal
+count_smaller elena
+count_smaller abbie
+count_smaller abby
+count_smaller zztop
+count_smaller remy
+count_smaller remz
+del jamal
+add ivana 27
+add mark 3
+add mark 22
+sub ivana 5
+add abbie 47
+search abbie
+search elena
+search howard
+search remy
+search stella
+search ivana
+search mark
+add ivana 3
+count_smaller marky

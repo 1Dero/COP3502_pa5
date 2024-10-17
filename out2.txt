@@ -1,0 +1,39 @@
+jamal 50
+elena 30
+remy 12
+elena 14
+jamal 63
+stella 100
+abbie 37
+stella 67
+abbie 0
+howard 73
+stella deleted
+3
+1
+0
+1
+5
+4
+5
+jamal deleted
+ivana 27
+mark 3
+mark 25
+ivana 22
+abbie 47
+abbie 47 2
+elena 14 1
+howard 73 0
+remy 12 1
+stella not found
+ivana 22 2
+mark 25 3
+ivana 25
+5
+howard 73
+abbie 47
+ivana 25
+mark 25
+elena 14
+remy 12

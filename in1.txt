@@ -1,0 +1,19 @@
+18
+add christian 30
+add allan 40
+add aisha 45
+add sami 28
+add montserrat 60
+add elijah 32
+add bret 10 
+add aisha 3
+add daniel 20
+sub sami 30
+del christian
+sub montserrat 28 
+search bret
+search daniel
+search christian
+sub christian 20
+count_smaller sami 
+del sami

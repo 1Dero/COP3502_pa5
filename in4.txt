@@ -1,0 +1,31 @@
+30
+add a 26
+add b 25
+add c 24
+add d 23
+add e 22
+add f 21
+add g 20
+add h 19
+add i 18
+add j 17
+add k 16
+add l 15
+add m 14
+add n 13
+add o 12
+add p 11
+add q 10
+add r 9
+add s 8
+add t 7
+add u 6
+add v 5
+add w 4
+add x 3
+add y 2
+add z 1
+count_smaller z
+del q
+sub h 2
+count_smaller z

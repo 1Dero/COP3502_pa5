@@ -1,0 +1,24 @@
+christian 30
+allan 40
+aisha 45
+sami 28
+montserrat 60
+elijah 32
+bret 10
+aisha 48
+daniel 20
+sami 0
+christian deleted
+montserrat 32
+bret 10 0
+daniel 20 4
+christian not found
+christian not found
+6
+sami deleted
+aisha 48
+allan 40
+elijah 32
+montserrat 32
+daniel 20
+bret 10
